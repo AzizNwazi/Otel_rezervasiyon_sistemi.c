@@ -1,0 +1,21 @@
+------------------------------------------------------
+Oda Numarasi: 81
+Musteri Adi-Soyadi: Ogun Birinci
+Kisi Sayisi: 4
+Fiyat Bilgisi: 4200.00
+Giris Tarihi: 22:5:2015
+Cikis Tarihi: 29:5:2015
+------------------------------------------------------
+Oda Numarasi: 88
+Musteri Adi-Soyadi: Ahmet Kaya
+Kisi Sayisi: 3
+Fiyat Bilgisi: 450.00
+Giris Tarihi: 25:5:2015
+Cikis Tarihi: 26:5:2015
+------------------------------------------------------
+Oda Numarasi: 1
+Musteri Adi-Soyadi: Aziz Nwazi
+Kisi Sayisi: 2
+Fiyat Bilgisi: 18000.00
+Giris Tarihi: 1:8:2024
+Cikis Tarihi: 1:10:2024
